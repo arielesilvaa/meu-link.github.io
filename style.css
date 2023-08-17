@@ -14,14 +14,14 @@ body {
    display: flex;
    flex-direction: column;
    align-items: center;
-   
+   width: 90%;
    margin: 50% auto;
    gap: 20px;
 
 }
 .link-tree img {
-  width: 250px;
-  height: 250px;
+  width: 150px;
+  height: 150px;
   border: solid 1px #f2ccc9; 
   border-radius: 50%;
 
