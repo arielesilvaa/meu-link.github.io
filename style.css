@@ -14,8 +14,8 @@ body {
    display: flex;
    flex-direction: column;
    align-items: center;
-   width: 90%;
-   margin: 20%;
+   width: 100%;
+   margin: 100%;
    
 
 }
