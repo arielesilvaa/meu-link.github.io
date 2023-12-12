@@ -2,12 +2,12 @@
  margin: 0;
  padding: 0;
  box-sizing: border-box;
- color: #8f4e4c;
+ color: #ffffff;
  font-family: sans-serif
 
 }
 body {
-   background-color: #fff6e9;
+   background-color: #000000;
 
 }
 .link-tree {
@@ -15,24 +15,22 @@ body {
    flex-direction: column;
    align-items: center;
    width: 90%;
-   margin: 50% auto;
-    gap: 20px;
-   
-
+   margin: 5% auto;
+   gap: 20px;
 }
 .link-tree img {
-  width: 150px;
-  height: 150px;
-  border: solid 1px #f2ccc9; 
+  width: 200px;
+  height: 200px;
+  border: solid 1px #ffffff; 
   border-radius: 50%;
 
 }
 .link-tree h1 {
-    font-size: 40px;
+    font-size: 55px;
     
 }
 .link-tree a {
-   background-color: #a65d5d;
+   background-color: #fa127e;
    color: #f8eef3;
    padding: 15px;
    width: 100%;
